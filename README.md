@@ -5,5 +5,3 @@ Once model is trained, integrate the intel realsenese camera with RasberryPi and
 After that load pretrained obejct detection with dept estimation code on RaberryPi 4 
 
 
-Output and setup video link : https://drive.google.com/file/d/1PXBRGkDRpIhCm9WhRNI-lnksXqUs2kQY/view?usp=drive_link
-
